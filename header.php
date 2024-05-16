@@ -44,6 +44,3 @@
     <script type="text/javascript" src="assets/font-awesome/js/all.min.js"></script>
   <script type="text/javascript" src="assets/js/jquery-te-1.4.0.min.js" charset="utf-8"></script>
 
-<!--  Orginal Author Name: Mayuri K. 
- for any PHP, Codeignitor, Laravel OR Python work contact me at mayuri.infospace@gmail.com  
- Visit website : www.mayurik.com -->  
